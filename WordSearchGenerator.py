@@ -13,7 +13,7 @@ Wlist = [['' for _ in range(y)] for _ in range(x)]
 wordPool = ["hello", "world", "python", "code", "random", "list", "example", "function", "variable", "string","algorithm", "data", "structure", "search", "grid", "place", "word", "game", "challenge", "fun", "puzzle","solution", "test", "case", "input", "output", "logic", "debug", "error", "exception", "handle"]
 
 # Debug flag to make successfully inserted words all caps
-debug_flag = True
+debug_flag = False
 
 # List to keep track of successfully placed words
 placed_words = []
